@@ -1,6 +1,8 @@
 # FlexSpace Group Project 2
  An app that shares conference meeting spaces between offices and potential renters. It uses NodeJS, MySQL, Sequelize, Express, and EJS for template rendering.
  
+ Heroku link: https://sheltered-shelf-68211.herokuapp.com/
+ 
  Product Name
 [![NPM Version][npm-image]][npm-url]
 
